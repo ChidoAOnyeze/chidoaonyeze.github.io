@@ -13,7 +13,7 @@ Before starting at Cornell, I recieved a Bachelors Degree in Computer Science an
 
 <div style="border-top: 2px solid #ccc; margin: 20px 0;"></div>
 
-Updates
+News
 =====
 
 <ul class="updates-list" style="list-style-type: none;">
@@ -27,7 +27,7 @@ Updates
 Publications
 =====
 
-<ul style="list-style-type: none;">
+<ul style="list-style-type: none;" class="publications-list">
   {% for publication in site.publications reversed %}
     {% include publication_item.html title=publication.title authors=publication.authors venue=publication.venue external_reference=publication.external_reference publication_year=publication.publication_year %}
   {% endfor %}
