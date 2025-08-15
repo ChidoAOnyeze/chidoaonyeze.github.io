@@ -1,0 +1,5 @@
+<li>
+  {{ include.date}}: 
+  {% capture cleaned %}{{ include.content | markdownify }}{% endcapture %}
+  {{ cleaned | replace: "<p>", "" | replace: "</p>", "<br>" | strip }}
+</li>

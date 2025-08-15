@@ -569,3 +569,7 @@ border-radius: .1em;
 .ai-inverse {
   color: #fff;
 }
+
+.updates-list li {
+  font-size: 0.85em;
+}
