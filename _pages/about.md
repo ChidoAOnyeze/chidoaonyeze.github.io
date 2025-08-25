@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a 3rd year Computer Science Ph.D. student at Cornell University. I am fortunate to be advised by Eva Tardos. My research interests lie in Game Theory, Learning in Games and Resource Allocation Problems. 
+I am a 3rd year Computer Science Ph.D. student at Cornell University. I am fortunate to be advised by <a href="https://www.cs.cornell.edu/~eva/">Éva Tardos</a>. My research interests lie in Game Theory, Learning in Games and Resource Allocation Problems. 
 
 Before starting at Cornell, I recieved a Bachelors Degree in Computer Science and Mathematics from Georgia Tech where I worked with Dr. Cassie S. Mitchell, Dr. Prasad Tetali and Dr. Lutz Warnke on various projects in Extremal Combinatorics and Randomized Algorithms.
 
