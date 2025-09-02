@@ -17,7 +17,7 @@ News
 =====
 
 <ul class="updates-list" style="list-style-type: none;">
-{% for update in site.updates reversed %}
+{% for update in site.updates %}
   {% include update_item.html date=update.content_date content=update.content_body %}
 {% endfor %}
 </ul>
