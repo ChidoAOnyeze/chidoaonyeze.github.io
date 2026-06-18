@@ -11,6 +11,7 @@ I am a 3rd year Computer Science Ph.D. student at Cornell University. I am fortu
 
 Before starting at Cornell, I recieved a Bachelors Degree in Computer Science and Mathematics from Georgia Tech where I worked with Dr. Cassie S. Mitchell, Dr. Prasad Tetali and Dr. Lutz Warnke on various projects in Extremal Combinatorics and Randomized Algorithms.
 
+To reach me, send an email to chidoonyeze@cs.cornell.edu.
 <div style="border-top: 2px solid #ccc; margin: 20px 0;"></div>
 
 News
