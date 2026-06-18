@@ -5,8 +5,8 @@ collection: preprint
 category: preprint
 external_reference: 'https://arxiv.org/pdf/2508.21753'
 date: 2025-09-01
-venue: 'arXiv preprint arXiv:2508.21753'
-publication_year: "2025"
+venue: 'Proceedings of the ACM on Measurement and Analysis of Computing Systems'
+publication_year: "2026"
 
 permalink: /publication/sequential_fairness_a_little_envy
 excerpt: 'In this paper, we study the trade-off between envy and inefficiency in repeated resource allocation settings with stochastic replenishments, motivated by real-world systems such as food banks and medical supply chains.'

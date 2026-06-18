@@ -6,7 +6,7 @@ category: preprint
 external_reference: 'https://arxiv.org/abs/2511.04817'
 date: 2025-11-10
 venue: 'arXiv preprint arXiv:2511.04817'
-publication_year: "2025"
+publication_year: "2026"
 
 permalink: /publication/dynamic_allocation_of_public_goods
 excerpt: 'In this paper, we investigate the problem of allocating a public good in an online setting with strategic agents and give a mechanism that achieves strong fairness and efficiency guarantees at equilibrium.'
